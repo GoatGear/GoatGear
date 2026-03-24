@@ -87,9 +87,9 @@ Most of my work happens in the <strong>JavaScript ecosystem</strong> building sc
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GoatGear&show_icons=true&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoatGear&layout=compact&theme=tokyonight" />
 
 </div>
 
