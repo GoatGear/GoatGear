@@ -1,4 +1,4 @@
-::: {align="center"}
+<div {align="center"}> 
 # 🚀 Eddie Ruiz 🐐
 
 ### Full-Stack Developer · Systems Builder
@@ -89,3 +89,7 @@ scalable platforms and automation tools.
 ------------------------------------------------------------------------
 
 <div align="center"> ⭐ Always building. Always improving. </div>
+
+</div>
+
+
