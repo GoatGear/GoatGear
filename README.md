@@ -1,129 +1,162 @@
-<div align="center">
-
+::: {align="center"}
 # 🚀 Eddie Ruiz 🐐
 
-Full-Stack Developer · Systems Builder
+### Full-Stack Developer · Systems Builder
 
-I build **real systems used in production**: event platforms, monitoring tools, and data-driven applications.
+I build **real systems used in production**\
+Event platforms · Monitoring tools · Data systems
+:::
 
-</div>
+------------------------------------------------------------------------
 
----
+## 🧠 About Me
 
-<h2>🧠 About Me</h2>
+Developer focused on **building practical systems where software meets
+real operations**.
 
+I enjoy designing APIs, building dashboards, and connecting services
+into **clean and reliable workflows**.
+
+Most of my work happens in the **JavaScript ecosystem**, building
+scalable platforms and automation tools.
+
+------------------------------------------------------------------------
+
+# 🛠 Tech Stack
+
+### Frontend
+
+```{=html}
 <p>
-Developer focused on building practical systems where software meets real operations.
-I enjoy designing APIs, building dashboards, and connecting services into reliable workflows.
+```
+`<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>`{=html}
+`<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>`{=html}
+`<img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Zustand-4338CA?style=for-the-badge"/>`{=html}
+```{=html}
 </p>
+```
+### Backend
 
+```{=html}
 <p>
-Most of my work happens in the <strong>JavaScript ecosystem</strong> building scalable platforms and automation tools.
+```
+`<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>`{=html}
+`<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>`{=html}
+`<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>`{=html}
+`<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/>`{=html}
+```{=html}
 </p>
+```
+### Infrastructure
 
----
-
-<h2>🛠 Tech Stack</h2>
-
-<h3>Frontend</h3>
-
+```{=html}
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
-<img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zustand-4338CA?style=for-the-badge"/>
+```
+`<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>`{=html}
+`<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx"/>`{=html}
+`<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>`{=html}
+```{=html}
 </p>
+```
+### Tools
 
-<h3>Backend</h3>
-
+```{=html}
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/>
+```
+`<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe"/>`{=html}
+`<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/Cron_Jobs-6B7280?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/Data_Pipelines-111827?style=for-the-badge"/>`{=html}
+```{=html}
 </p>
+```
 
-<h3>Infrastructure</h3>
+------------------------------------------------------------------------
 
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx"/>
-<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-</p>
+# 🧩 Systems I Build
 
-<h3>Other Tools</h3>
+I usually work on systems that connect **users, data and automation**.
 
-<p>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe"/>
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cron_Jobs-6B7280?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Pipelines-111827?style=for-the-badge"/>
-</p>
+• Event registration platforms\
+• Monitoring dashboards\
+• Data aggregation systems\
+• API-driven platforms\
+• Automation pipelines\
+• Admin systems and internal tools\
+• SEO-optimized web platforms
 
----
+------------------------------------------------------------------------
 
-<h2>🧩 Types of Projects I Build</h2>
+# 🏗 Typical Architecture
 
-<ul>
-<li>Event registration platforms</li>
-<li>Monitoring dashboards</li>
-<li>Data aggregation systems</li>
-<li>API-driven applications</li>
-<li>Automation workflows</li>
-<li>SEO optimized web platforms</li>
-<li>Admin systems and internal tools</li>
-</ul>
+``` mermaid
+flowchart LR
 
----
+A[Frontend<br>React / Next.js]
 
-<h2>⚙️ Development Approach</h2>
+B[API<br>Node / Express]
 
-<ul>
-<li>Design simple architectures for complex workflows</li>
-<li>Focus on real-world usability</li>
-<li>Build systems that scale operationally</li>
-<li>Prefer clean APIs and modular services</li>
-</ul>
+C[Services<br>Workers / Cron / Integrations]
 
----
+D[(MongoDB)]
 
-<h2>📊 GitHub Stats</h2>
+E[External Services<br>Stripe · Email · APIs]
 
-<div align="center">
+A --> B
+B --> C
+C --> D
+B --> D
+C --> E
+```
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GoatGear&show_icons=true&theme=tokyonight" />
+------------------------------------------------------------------------
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoatGear&layout=compact&theme=tokyonight" />
+# ⚙️ Development Approach
 
-</div>
+• Design **simple architectures for complex workflows**\
+• Focus on **real-world usability**\
+• Build systems that **scale operationally**\
+• Prefer **clean APIs and modular services**
 
----
+------------------------------------------------------------------------
 
-<h2>🔥 Activity</h2>
+# 📊 GitHub Stats
 
-<div align="center">
+::: {align="center"}
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=GoatGear&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
 
-<img src="https://streak-stats.demolab.com?user=GoatGear&theme=tokyonight&hide_border=true"/>
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoatGear&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+:::
 
-</div>
+------------------------------------------------------------------------
 
----
+# 🔥 GitHub Activity
 
-<h2>🌎 Philosophy</h2>
+::: {align="center"}
+`<img src="https://streak-stats.demolab.com?user=GoatGear&theme=tokyonight&hide_border=true"/>`{=html}
+:::
 
-<blockquote>
-Good software reduces friction in the real world.
-</blockquote>
+------------------------------------------------------------------------
 
-<p>
-I like building software that connects directly with operations, teams and real workflows.
-</p>
+# 📈 Contribution Graph
 
----
+::: {align="center"}
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=GoatGear&theme=tokyo-night&hide_border=true"/>`{=html}
+:::
 
-<div align="center">
+------------------------------------------------------------------------
 
+# 🌎 Philosophy
+
+> Good software reduces friction in the real world.
+
+I like building software that connects directly with **operations, teams
+and real workflows**.
+
+------------------------------------------------------------------------
+
+::: {align="center"}
 ⭐ Always building. Always improving.
-
-</div>
+:::
