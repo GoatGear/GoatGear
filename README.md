@@ -80,15 +80,6 @@ scalable platforms and automation tools.
 
 ------------------------------------------------------------------------ 
 
-<h2>📊 GitHub Stats</h2> 
-
-<div align="center"> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GoatGear&show_icons=true&theme=tokyonight" /> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoatGear&layout=compact&theme=tokyonight" /> 
-</div>
-
-------------------------------------------------------------------------
-
 <h2>🔥 Activity</h2> <div align="center"> <img src="https://streak-stats.demolab.com?user=GoatGear&theme=tokyonight&hide_border=true"/> </div> 
 
 ------------------------------------------------------------------------
