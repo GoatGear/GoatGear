@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Eddie Ruiz
+# 🚀 Eddie Ruiz 🐐
 
 Full-Stack Developer · Systems Builder
 
