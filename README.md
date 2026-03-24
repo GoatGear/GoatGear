@@ -1,11 +1,9 @@
-<div {align="center"}> 
 # 🚀 Eddie Ruiz 🐐
 
 ### Full-Stack Developer · Systems Builder
 
 I build **real systems used in production**\
 Event platforms · Monitoring tools · Data systems
-:::
 
 ------------------------------------------------------------------------
 
@@ -89,7 +87,5 @@ scalable platforms and automation tools.
 ------------------------------------------------------------------------
 
 <div align="center"> ⭐ Always building. Always improving. </div>
-
-</div>
 
 
