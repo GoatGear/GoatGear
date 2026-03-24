@@ -78,10 +78,6 @@ scalable platforms and automation tools.
 
 ------------------------------------------------------------------------ 
 
-<h2>🔥 Activity</h2> <div align="center"> <img src="https://streak-stats.demolab.com?user=GoatGear&theme=tokyonight&hide_border=true"/> </div> 
-
-------------------------------------------------------------------------
-
 <h2>🌎 Philosophy</h2> <blockquote> Good software reduces friction in the real world. </blockquote> <p> I like building software that connects directly with operations, teams and real workflows. </p>
 
 ------------------------------------------------------------------------
