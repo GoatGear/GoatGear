@@ -1,4 +1,4 @@
-# 🚀 Eddie Ruiz 🐐
+# 🚀 Eddie 🐐
 
 ### Full-Stack Developer · Systems Builder
 
